@@ -1,0 +1,57 @@
+USE ks;
+
+----- SIMPLE QUERIES -----
+
+-- Select the first 5 rows from the earthquakes table
+SELECT * FROM earthquakes LIMIT 5;
+
+-- Select only the 'place' and 'mag' columns from the earthquakes table, limiting to the first 5 rows
+SELECT place, mag FROM earthquakes LIMIT 5;
+
+-- Select a specific earthquake by its 'id' (efficient query since 'id' is the primary key)
+SELECT * FROM earthquakes WHERE id = 'usb000hc3b';
+
+-- Query the first 5 earthquakes with 'mag' greater than 5.0 and 'status' equal to 'REVIEWED'
+SELECT * FROM earthquakes WHERE mag > 5.0 AND status = 'REVIEWED' ALLOW FILTERING LIMIT 5;
+
+-- Count the number of earthquakes with 'mag' greater than 5 (ALLOW FILTERING is inefficient and should be avoided where possible)
+SELECT COUNT(*) FROM earthquakes WHERE mag > 5 ALLOW FILTERING;
+
+-- Query earthquakes by 'place' using the secondary index on 'place' (secondary indexes are less efficient than primary key queries but more efficient than using ALLOW FILTERING)
+CREATE INDEX IF NOT EXISTS place_index ON earthquakes (place);
+SELECT * FROM earthquakes WHERE place = '6km ENE of Desert Hot Springs, California';
+
+----- COMPLEX QUERIES -----
+
+
+
+----- HARD QUERY -----
+
+-- Define the custom aggregate function for average magnitude
+CREATE OR REPLACE FUNCTION magAvgState(state tuple<int, double>, val double)
+CALLED ON NULL INPUT 
+RETURNS tuple<int, double> 
+LANGUAGE java AS '
+    if (val != null) {
+        state.setInt(0, state.getInt(0) + 1);  // Increment count
+        state.setDouble(1, state.getDouble(1) + val.doubleValue());  // Add magnitude
+    }
+    return state;
+';
+
+CREATE OR REPLACE FUNCTION magAvgFinal(state tuple<int, double>)
+CALLED ON NULL INPUT 
+RETURNS double 
+LANGUAGE java AS '
+    if (state.getInt(0) == 0) return null;  // Avoid division by zero
+    return state.getDouble(1) / state.getInt(0);
+';  
+
+CREATE AGGREGATE IF NOT EXISTS average_mag (double)
+SFUNC magAvgState 
+STYPE tuple<int, double> 
+FINALFUNC magAvgFinal 
+INITCOND (0,0.0);
+
+
+SELECT place, average_mag(mag) FROM earthquakes GROUP BY id LIMIT 10;

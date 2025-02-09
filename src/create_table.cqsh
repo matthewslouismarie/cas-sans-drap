@@ -1,3 +1,8 @@
+-- Create a keyspace for the dataset
+CREATE KEYSPACE ks WITH REPLICATION = { 'class': 'SimpleStrategy', 'replication_factor': 1 };
+USE ks;
+
+-- Create the earthquakes table
 create table earthquakes (
     id text PRIMARY KEY,
     mag double,
@@ -27,3 +32,4 @@ create table earthquakes (
     type text,
     coordinates tuple<double, double, double>
 );
+

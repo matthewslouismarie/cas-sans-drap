@@ -1,0 +1,32 @@
+2025-02-09 17:17:42 INFO  Operation directory: /root/src/logs/LOAD_20250209-171742-089651
+2025-02-09 17:17:44 ERROR Operation LOAD_20250209-171742-089651 failed: Java.io.IOException: Error reading from file:/root/src/project/merged_df.json.
+   Caused by: Error reading from file:/root/src/project/merged_df.json.
+     Caused by: File not found: /root/src/project/merged_df.json (No such file or directory).
+reactor.core.Exceptions$ReactiveException: java.io.IOException: Error reading from file:/root/src/project/merged_df.json
+	at com.datastax.oss.dsbulk.workflow.load.LoadWorkflow.execute(LoadWorkflow.java:242) [3 skipped]
+	at com.datastax.oss.dsbulk.runner.WorkflowThread.run(WorkflowThread.java:53)
+	Suppressed: java.lang.Exception: #block terminated with an error
+		at com.datastax.oss.dsbulk.workflow.load.LoadWorkflow.execute(LoadWorkflow.java:242) [2 skipped]
+		... 3 common frames omitted
+Caused by: java.io.IOException: Error reading from file:/root/src/project/merged_df.json
+	at com.datastax.oss.dsbulk.connectors.json.JsonConnector$JsonRecordReader.<init>(JsonConnector.java:204)
+	at com.datastax.oss.dsbulk.connectors.json.JsonConnector$JsonRecordReader.<init>(JsonConnector.java:180)
+	at com.datastax.oss.dsbulk.connectors.json.JsonConnector.newSingleFileReader(JsonConnector.java:177)
+	at com.datastax.oss.dsbulk.connectors.commons.AbstractFileBasedConnector.lambda$readSingleFile$8(AbstractFileBasedConnector.java:271)
+	at com.datastax.oss.dsbulk.workflow.load.LoadWorkflow.execute(LoadWorkflow.java:242) [26 skipped]
+	at com.datastax.oss.dsbulk.runner.WorkflowThread.run(WorkflowThread.java:53)
+Caused by: java.io.FileNotFoundException: /root/src/project/merged_df.json (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.connect(Unknown Source)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(Unknown Source)
+	at java.base/java.net.URL.openStream(Unknown Source)
+	at com.datastax.oss.dsbulk.io.IOUtils.newBufferedInputStream(IOUtils.java:55)
+	at com.datastax.oss.dsbulk.io.IOUtils.newBufferedReader(IOUtils.java:86)
+	at com.datastax.oss.dsbulk.io.CompressedIOUtils.newBufferedReader(CompressedIOUtils.java:96)
+2025-02-09 17:17:46 INFO  Final stats:
+2025-02-09 17:17:46 INFO  Checkpoints for the current operation were written to checkpoint.csv.
+2025-02-09 17:17:46 INFO  To resume the current operation, re-run it with the same settings, and add the following command line flag:
+2025-02-09 17:17:46 INFO  --dsbulk.log.checkpoint.file=/root/src/logs/LOAD_20250209-171742-089651/checkpoint.csv
