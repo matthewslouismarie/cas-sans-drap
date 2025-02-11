@@ -1,6 +1,6 @@
 services:
   cassandra:
-    image: cassandra:latest
+    build: .
     ports:
       - 7000:7000
       - 7001:7001

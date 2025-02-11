@@ -1,0 +1,1265 @@
+{
+    "201": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "202": {
+        "timezone": "EST",
+        "state": "District of Columbia"
+    },
+    "203": {
+        "timezone": "EST",
+        "state": "Connecticut"
+    },
+    "205": {
+        "timezone": "CST",
+        "state": "Alabama"
+    },
+    "206": {
+        "timezone": "PST",
+        "state": "Washington"
+    },
+    "207": {
+        "timezone": "EST",
+        "state": "Maine"
+    },
+    "208": {
+        "timezone": "MST",
+        "state": "Idaho"
+    },
+    "209": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "210": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "212": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "213": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "214": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "215": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "216": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "217": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "218": {
+        "timezone": "CST",
+        "state": "Minnesota"
+    },
+    "219": {
+        "timezone": "CST",
+        "state": "Indiana"
+    },
+    "220": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "224": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "225": {
+        "timezone": "CST",
+        "state": "Louisiana"
+    },
+    "228": {
+        "timezone": "CST",
+        "state": "Mississippi"
+    },
+    "229": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "231": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "234": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "239": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "240": {
+        "timezone": "EST",
+        "state": "Maryland"
+    },
+    "248": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "251": {
+        "timezone": "CST",
+        "state": "Alabama"
+    },
+    "252": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "253": {
+        "timezone": "PST",
+        "state": "Washington"
+    },
+    "254": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "256": {
+        "timezone": "CST",
+        "state": "Alabama"
+    },
+    "260": {
+        "timezone": "EST",
+        "state": "Indiana"
+    },
+    "262": {
+        "timezone": "CST",
+        "state": "Wisconsin"
+    },
+    "267": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "269": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "270": {
+        "timezone": "CST",
+        "state": "Kentucky"
+    },
+    "272": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "276": {
+        "timezone": "EST",
+        "state": "Virginia"
+    },
+    "281": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "301": {
+        "timezone": "EST",
+        "state": "Maryland"
+    },
+    "302": {
+        "timezone": "EST",
+        "state": "Delaware"
+    },
+    "303": {
+        "timezone": "MST",
+        "state": "Colorado"
+    },
+    "304": {
+        "timezone": "EST",
+        "state": "West Virginia"
+    },
+    "305": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "307": {
+        "timezone": "MST",
+        "state": "Wyoming"
+    },
+    "308": {
+        "timezone": "CST",
+        "state": "Nebraska"
+    },
+    "309": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "310": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "312": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "313": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "314": {
+        "timezone": "CST",
+        "state": "Missouri"
+    },
+    "315": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "316": {
+        "timezone": "CST",
+        "state": "Kansas"
+    },
+    "317": {
+        "timezone": "EST",
+        "state": "Indiana"
+    },
+    "318": {
+        "timezone": "CST",
+        "state": "Louisiana"
+    },
+    "319": {
+        "timezone": "CST",
+        "state": "Iowa"
+    },
+    "320": {
+        "timezone": "CST",
+        "state": "Minnesota"
+    },
+    "321": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "323": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "325": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "330": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "331": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "332": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "334": {
+        "timezone": "CST",
+        "state": "Alabama"
+    },
+    "336": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "337": {
+        "timezone": "CST",
+        "state": "Louisiana"
+    },
+    "339": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "346": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "347": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "351": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "352": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "360": {
+        "timezone": "PST",
+        "state": "Washington"
+    },
+    "361": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "364": {
+        "timezone": "CST",
+        "state": "Kentucky"
+    },
+    "380": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "385": {
+        "timezone": "MST",
+        "state": "Utah"
+    },
+    "386": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "401": {
+        "timezone": "EST",
+        "state": "Rhode Island"
+    },
+    "402": {
+        "timezone": "CST",
+        "state": "Nebraska"
+    },
+    "404": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "405": {
+        "timezone": "CST",
+        "state": "Oklahoma"
+    },
+    "406": {
+        "timezone": "MST",
+        "state": "Montana"
+    },
+    "407": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "408": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "409": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "410": {
+        "timezone": "EST",
+        "state": "Maryland"
+    },
+    "412": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "413": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "414": {
+        "timezone": "CST",
+        "state": "Wisconsin"
+    },
+    "415": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "417": {
+        "timezone": "CST",
+        "state": "Missouri"
+    },
+    "419": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "423": {
+        "timezone": "EST",
+        "state": "Tennessee"
+    },
+    "424": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "425": {
+        "timezone": "PST",
+        "state": "Washington"
+    },
+    "430": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "432": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "434": {
+        "timezone": "EST",
+        "state": "Virginia"
+    },
+    "435": {
+        "timezone": "MST",
+        "state": "Utah"
+    },
+    "440": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "442": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "443": {
+        "timezone": "EST",
+        "state": "Maryland"
+    },
+    "456": null,
+    "458": {
+        "timezone": "PST",
+        "state": "Oregon"
+    },
+    "463": {
+        "timezone": "EST",
+        "state": "Indiana"
+    },
+    "469": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "470": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "475": {
+        "timezone": "EST",
+        "state": "Connecticut"
+    },
+    "478": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "479": {
+        "timezone": "CST",
+        "state": "Arkansas"
+    },
+    "480": {
+        "timezone": "MST",
+        "state": "Arizona"
+    },
+    "484": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "500": null,
+    "501": {
+        "timezone": "CST",
+        "state": "Arkansas"
+    },
+    "502": {
+        "timezone": "EST",
+        "state": "Kentucky"
+    },
+    "503": {
+        "timezone": "PST",
+        "state": "Oregon"
+    },
+    "504": {
+        "timezone": "CST",
+        "state": "Louisiana"
+    },
+    "505": {
+        "timezone": "MST",
+        "state": "New Mexico"
+    },
+    "507": {
+        "timezone": "CST",
+        "state": "Minnesota"
+    },
+    "508": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "509": {
+        "timezone": "PST",
+        "state": "Washington"
+    },
+    "510": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "512": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "513": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "515": {
+        "timezone": "CST",
+        "state": "Iowa"
+    },
+    "516": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "517": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "518": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "520": {
+        "timezone": "MST",
+        "state": "Arizona"
+    },
+    "522": null,
+    "530": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "531": {
+        "timezone": "CST",
+        "state": "Nebraska"
+    },
+    "533": null,
+    "534": {
+        "timezone": "CST",
+        "state": "Wisconsin"
+    },
+    "539": {
+        "timezone": "CST",
+        "state": "Oklahoma"
+    },
+    "540": {
+        "timezone": "EST",
+        "state": "Virginia"
+    },
+    "541": {
+        "timezone": "PST",
+        "state": "Oregon"
+    },
+    "544": null,
+    "551": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "559": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "561": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "562": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "563": {
+        "timezone": "CST",
+        "state": "Iowa"
+    },
+    "566": null,
+    "567": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "570": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "571": {
+        "timezone": "EST",
+        "state": "Virginia"
+    },
+    "573": {
+        "timezone": "CST",
+        "state": "Missouri"
+    },
+    "574": {
+        "timezone": "EST",
+        "state": "Indiana"
+    },
+    "575": {
+        "timezone": "MST",
+        "state": "New Mexico"
+    },
+    "580": {
+        "timezone": "CST",
+        "state": "Oklahoma"
+    },
+    "585": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "586": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "588": null,
+    "601": {
+        "timezone": "CST",
+        "state": "Mississippi"
+    },
+    "602": {
+        "timezone": "MST",
+        "state": "Arizona"
+    },
+    "603": {
+        "timezone": "EST",
+        "state": "New Hampshire"
+    },
+    "605": {
+        "timezone": "CST",
+        "state": "South Dakota"
+    },
+    "606": {
+        "timezone": "EST",
+        "state": "Kentucky"
+    },
+    "607": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "608": {
+        "timezone": "CST",
+        "state": "Wisconsin"
+    },
+    "609": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "610": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "611": null,
+    "612": {
+        "timezone": "CST",
+        "state": "Minnesota"
+    },
+    "614": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "615": {
+        "timezone": "CST",
+        "state": "Tennessee"
+    },
+    "616": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "617": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "618": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "619": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "620": {
+        "timezone": "CST",
+        "state": "Kansas"
+    },
+    "623": {
+        "timezone": "MST",
+        "state": "Arizona"
+    },
+    "626": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "628": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "629": {
+        "timezone": "CST",
+        "state": "Tennessee"
+    },
+    "630": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "631": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "636": {
+        "timezone": "CST",
+        "state": "Missouri"
+    },
+    "641": {
+        "timezone": "CST",
+        "state": "Iowa"
+    },
+    "646": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "650": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "651": {
+        "timezone": "CST",
+        "state": "Minnesota"
+    },
+    "657": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "660": {
+        "timezone": "CST",
+        "state": "Missouri"
+    },
+    "661": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "662": {
+        "timezone": "CST",
+        "state": "Mississippi"
+    },
+    "667": {
+        "timezone": "EST",
+        "state": "Maryland"
+    },
+    "669": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "678": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "680": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "681": {
+        "timezone": "EST",
+        "state": "West Virginia"
+    },
+    "682": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "700": null,
+    "701": {
+        "timezone": "CST",
+        "state": "North Dakota"
+    },
+    "702": {
+        "timezone": "PST",
+        "state": "Nevada"
+    },
+    "703": {
+        "timezone": "EST",
+        "state": "Virginia"
+    },
+    "704": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "706": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "707": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "708": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "710": null,
+    "712": {
+        "timezone": "CST",
+        "state": "Iowa"
+    },
+    "713": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "714": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "715": {
+        "timezone": "CST",
+        "state": "Wisconsin"
+    },
+    "716": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "717": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "718": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "719": {
+        "timezone": "MST",
+        "state": "Colorado"
+    },
+    "720": {
+        "timezone": "MST",
+        "state": "Colorado"
+    },
+    "724": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "725": {
+        "timezone": "PST",
+        "state": "Nevada"
+    },
+    "727": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "731": {
+        "timezone": "CST",
+        "state": "Tennessee"
+    },
+    "732": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "734": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "737": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "740": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "743": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "747": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "754": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "757": {
+        "timezone": "EST",
+        "state": "Virginia"
+    },
+    "760": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "762": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "763": {
+        "timezone": "CST",
+        "state": "Minnesota"
+    },
+    "765": {
+        "timezone": "EST",
+        "state": "Indiana"
+    },
+    "769": {
+        "timezone": "CST",
+        "state": "Mississippi"
+    },
+    "770": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "772": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "773": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "774": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "775": {
+        "timezone": "PST",
+        "state": "Nevada"
+    },
+    "779": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "781": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "785": {
+        "timezone": "CST",
+        "state": "Kansas"
+    },
+    "786": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "800": null,
+    "801": {
+        "timezone": "MST",
+        "state": "Utah"
+    },
+    "802": {
+        "timezone": "EST",
+        "state": "Vermont"
+    },
+    "803": {
+        "timezone": "EST",
+        "state": "South Carolina"
+    },
+    "804": {
+        "timezone": "EST",
+        "state": "Virginia"
+    },
+    "805": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "806": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "808": {
+        "timezone": "HAST",
+        "state": "Hawaii"
+    },
+    "809": {
+        "timezone": "AST"
+    },
+    "810": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "812": {
+        "timezone": "EST",
+        "state": "Indiana"
+    },
+    "813": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "814": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "815": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "816": {
+        "timezone": "CST",
+        "state": "Missouri"
+    },
+    "817": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "818": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "828": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "830": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "831": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "832": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "833": null,
+    "843": {
+        "timezone": "EST",
+        "state": "South Carolina"
+    },
+    "844": null,
+    "845": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "847": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "848": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "850": {
+        "timezone": "CST",
+        "state": "Florida"
+    },
+    "854": {
+        "timezone": "EST",
+        "state": "South Carolina"
+    },
+    "855": null,
+    "856": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "857": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "858": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "859": {
+        "timezone": "EST",
+        "state": "Kentucky"
+    },
+    "860": {
+        "timezone": "EST",
+        "state": "Connecticut"
+    },
+    "862": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "863": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "864": {
+        "timezone": "EST",
+        "state": "South Carolina"
+    },
+    "865": {
+        "timezone": "EST",
+        "state": "Tennessee"
+    },
+    "866": null,
+    "870": {
+        "timezone": "CST",
+        "state": "Arkansas"
+    },
+    "872": {
+        "timezone": "CST",
+        "state": "Illinois"
+    },
+    "877": null,
+    "878": {
+        "timezone": "EST",
+        "state": "Pennsylvania"
+    },
+    "880": null,
+    "881": null,
+    "888": null,
+    "900": null,
+    "901": {
+        "timezone": "CST",
+        "state": "Tennessee"
+    },
+    "903": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "904": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "906": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "907": {
+        "timezone": "AKST",
+        "state": "Alaska"
+    },
+    "908": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "909": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "910": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "912": {
+        "timezone": "EST",
+        "state": "Georgia"
+    },
+    "913": {
+        "timezone": "CST",
+        "state": "Kansas"
+    },
+    "914": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "915": {
+        "timezone": "MST",
+        "state": "Texas"
+    },
+    "916": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "917": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "918": {
+        "timezone": "CST",
+        "state": "Oklahoma"
+    },
+    "919": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "920": {
+        "timezone": "CST",
+        "state": "Wisconsin"
+    },
+    "925": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "928": {
+        "timezone": "MST",
+        "state": "Arizona"
+    },
+    "929": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "930": {
+        "timezone": "EST",
+        "state": "Indiana"
+    },
+    "931": {
+        "timezone": "CST",
+        "state": "Tennessee"
+    },
+    "934": {
+        "timezone": "EST",
+        "state": "New York"
+    },
+    "936": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "937": {
+        "timezone": "EST",
+        "state": "Ohio"
+    },
+    "938": {
+        "timezone": "CST",
+        "state": "Alabama"
+    },
+    "940": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "941": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "947": {
+        "timezone": "EST",
+        "state": "Michigan"
+    },
+    "949": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "951": {
+        "timezone": "PST",
+        "state": "California"
+    },
+    "952": {
+        "timezone": "CST",
+        "state": "Minnesota"
+    },
+    "954": {
+        "timezone": "EST",
+        "state": "Florida"
+    },
+    "956": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "959": {
+        "timezone": "EST",
+        "state": "Connecticut"
+    },
+    "970": {
+        "timezone": "MST",
+        "state": "Colorado"
+    },
+    "971": {
+        "timezone": "PST",
+        "state": "Oregon"
+    },
+    "972": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "973": {
+        "timezone": "EST",
+        "state": "New Jersey"
+    },
+    "978": {
+        "timezone": "EST",
+        "state": "Massachusetts"
+    },
+    "979": {
+        "timezone": "CST",
+        "state": "Texas"
+    },
+    "980": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "984": {
+        "timezone": "EST",
+        "state": "North Carolina"
+    },
+    "985": {
+        "timezone": "CST",
+        "state": "Louisiana"
+    },
+    "989": {
+        "timezone": "EST",
+        "state": "Michigan"
+    }
+}
